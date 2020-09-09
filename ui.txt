@@ -1,5 +1,3 @@
 iii
 abc
-cde
-efd
-fwr
+cd
